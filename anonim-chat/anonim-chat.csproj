@@ -7,4 +7,9 @@
     <RootNamespace>anonim_chat</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Context\" />
+    <Folder Include="Entities\" />
+  </ItemGroup>
+
 </Project>
